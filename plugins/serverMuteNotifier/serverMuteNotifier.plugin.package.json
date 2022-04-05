@@ -1,0 +1,13 @@
+{
+  "id": "server-mute-notifier-plugin-1.0",
+  "name": "serverMuteNotifier",
+  "description": "Show a notification when a user is server muted",
+  "version": 1.0,
+  "srcURL": "serverMuteNotifier.plugin.js",
+  "allowUnload": false,
+  "platforms": ["web", "electron", "ios", "android"],
+  "participantRoles": ["chair", "guest"],
+  "menuItems": {
+    "toolbar": []
+  }
+}

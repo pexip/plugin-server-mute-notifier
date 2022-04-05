@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "server-mute-notifier-plugin-1.0",
+      "srcURL": "plugins/serverMuteNotifier/serverMuteNotifier.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}
