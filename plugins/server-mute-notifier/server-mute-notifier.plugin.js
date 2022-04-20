@@ -7,7 +7,7 @@
     let styleSheet = document.createElement('link');
     styleSheet.rel = 'stylesheet';
     styleSheet.href =
-      'custom_configuration/plugins/serverMuteNotifier/assets/css/styles.css';
+      'custom_configuration/plugins/server-mute-notifier/assets/css/styles.css';
     document.head.appendChild(styleSheet);
 
     const actionsSubscription = PEX.actions$.subscribe({
